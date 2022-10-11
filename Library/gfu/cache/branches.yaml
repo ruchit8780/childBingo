@@ -13,28 +13,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-10-06T14:11:01.661-07:00
-  initializedAtString: 2022-10-06T13:08:49.531-07:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2022-10-11T12:52:23.859-07:00
+  initializedAtString: 2022-10-11T12:21:38.480-07:00
+  localBranches:
+  - name: dev
+    tracking: origin/dev
+  - name: week_7
+    tracking: origin/week_7
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/niranjpatel/latest_petbingo.git
+    url: https://github.com/ruchit8780/childBingo.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - dev
+    - week_7
+    values:
+    - name: dev
+      remote:
+        name: origin
+        url: https://github.com/ruchit8780/childBingo.git
+      trackingBranch: dev
+    - name: week_7
+      remote:
+        name: origin
+        url: https://github.com/ruchit8780/childBingo.git
+      trackingBranch: week_7
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ruchit8780/childBingo.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/niranjpatel/latest_petbingo.git
+      url: https://github.com/ruchit8780/childBingo.git

@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-10-06T14:11:01.627-07:00
-  initializedAtString: 2022-10-06T12:23:59.194-07:00
+  lastUpdatedAtString: 2022-10-11T12:14:33.606-07:00
+  initializedAtString: 2022-10-11T12:14:33.606-07:00
   currentGitRemote:
     name: origin
-    url: https://github.com/niranjpatel/latest_petbingo.git
+    url: https://github.com/ruchit8780/childBingo.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: week_7
+    tracking: origin/week_7
   currentConfigBranch:
-    name: master
+    name: week_7
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/ruchit8780/childBingo.git
+    trackingBranch: week_7
   currentConfigRemote:
     name: origin
-    url: https://github.com/niranjpatel/latest_petbingo.git
+    url: https://github.com/ruchit8780/childBingo.git
   currentHead: 
