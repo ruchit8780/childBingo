@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-10-11T14:35:30.630-07:00
-  initializedAtString: 2022-10-11T14:35:30.572-07:00
+  lastUpdatedAtString: 2022-10-13T02:53:17.872-07:00
+  initializedAtString: 2022-10-13T02:53:17.785-07:00
   localBranches:
   - name: dev
     tracking: origin/dev
@@ -22,8 +22,6 @@ MonoBehaviour:
     tracking: origin/week_7
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/week_7
     tracking: '[None]'
   remotes:
   - name: origin
@@ -54,15 +52,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - week_7
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/ruchit8780/childBingo.git
-        trackingBranch: 
-      - name: week_7
         remote:
           name: origin
           url: https://github.com/ruchit8780/childBingo.git
