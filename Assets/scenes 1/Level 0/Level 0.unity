@@ -631,12 +631,12 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 727027678}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.53267276, y: 0.5}
   m_AnchorMax: {x: 0.53267276, y: 0.5}
-  m_AnchoredPosition: {x: -96.733, y: 405.8}
-  m_SizeDelta: {x: 3003.3, y: 1389}
+  m_AnchoredPosition: {x: -96.733, y: 65.8}
+  m_SizeDelta: {x: 3003.3, y: 750.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &650444432
 MonoBehaviour:
@@ -651,14 +651,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.08155845, g: 0.5283019, b: 0.068114355, a: 1}
+  m_Color: {r: 0.59467906, g: 0.764151, b: 0.58873266, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 38fa2584dcae6264c92caabfc6d5dec5, type: 3}
+  m_Texture: {fileID: 2800000, guid: 8bab9fc3de8ff9446a206ed744c1a7f0, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -906,8 +906,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1683170743}
   - {fileID: 650444431}
+  - {fileID: 1683170743}
   - {fileID: 1436173536}
   - {fileID: 531024265}
   - {fileID: 1025756013}
@@ -2189,12 +2189,12 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 727027678}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8, y: 312}
-  m_SizeDelta: {x: 3109, y: 2980}
+  m_AnchoredPosition: {x: -8, y: 38}
+  m_SizeDelta: {x: 3086, y: 1630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1683170744
 MonoBehaviour:
