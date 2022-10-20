@@ -8,6 +8,6 @@ public class lobby : MonoBehaviour
     public void lobbybutton()
     {
     Debug. Log("Function called!");
-    SceneManager.LoadScene(4);
+    SceneManager.LoadScene(6);
     }
 }
