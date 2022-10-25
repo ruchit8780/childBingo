@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-10-20T13:57:57.627-07:00
-  initializedAtString: 2022-10-20T13:57:57.627-07:00
+  lastUpdatedAtString: 2022-10-25T13:46:56.616-07:00
+  initializedAtString: 2022-10-25T13:46:56.616-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/ruchit8780/childBingo.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: week_7
-    tracking: origin/week_7
+    name: week_8
+    tracking: origin/week_8
   currentConfigBranch:
-    name: week_7
+    name: week_8
     remote:
       name: origin
       url: https://github.com/ruchit8780/childBingo.git
-    trackingBranch: week_7
+    trackingBranch: week_8
   currentConfigRemote:
     name: origin
     url: https://github.com/ruchit8780/childBingo.git
