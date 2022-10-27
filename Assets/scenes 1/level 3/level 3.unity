@@ -182,7 +182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 4
+  m_text: 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 20228847}
-  index: 0
+  index: 9
   operand1text: {fileID: 1477268223}
   operand2text: {fileID: 0}
   button: {fileID: 2028336417}
@@ -491,7 +491,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &108088966
 GameObject:
@@ -764,7 +764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 165591263}
-  index: 0
+  index: 18
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 767765295}
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5
+  m_text: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -918,7 +918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 167769900}
-  index: 0
+  index: 4
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 415858504}
@@ -1240,7 +1240,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 8
+  m_text: 68
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1330,7 +1330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 204786911}
-  index: 0
+  index: 7
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1538170187}
@@ -1394,7 +1394,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 6
+  m_text: 10
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1484,7 +1484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 215384527}
-  index: 0
+  index: 23
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1767968152}
@@ -1799,7 +1799,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -3.5002441, y: 0}
+  m_AnchoredPosition: {x: -3.5, y: 0}
   m_SizeDelta: {x: 6.999569, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &323991830
@@ -2143,7 +2143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 397756144}
-  index: 0
+  index: 13
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1601726120}
@@ -2419,7 +2419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 438114949}
-  index: 0
+  index: 15
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 662568715}
@@ -2483,7 +2483,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2
+  m_text: 17
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2573,7 +2573,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 500189194}
-  index: 0
+  index: 2
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1311778749}
@@ -2637,7 +2637,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 7
+  m_text: '3
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2727,7 +2729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 542984855}
-  index: 0
+  index: 1
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1624323477}
@@ -2881,7 +2883,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 604755085}
-  index: 0
+  index: 17
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 679652340}
@@ -2945,7 +2947,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5
+  m_text: 79
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3035,7 +3037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 605548045}
-  index: 0
+  index: 6
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 395368175}
@@ -3415,7 +3417,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7005058048981962884, guid: 320fec97136ab3c4a99c2c92ed96fba3, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7005058048981962884, guid: 320fec97136ab3c4a99c2c92ed96fba3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3644,7 +3646,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 4
+  m_text: 45
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3734,7 +3736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1038660328}
-  index: 0
+  index: 5
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 310588617}
@@ -3888,7 +3890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1094628147}
-  index: 0
+  index: 10
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1813057039}
@@ -4042,7 +4044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1110326856}
-  index: 0
+  index: 12
   operand1text: {fileID: 1477268223}
   operand2text: {fileID: 0}
   button: {fileID: 1405081518}
@@ -4196,7 +4198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1118235187}
-  index: 0
+  index: 22
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1407731081}
@@ -4350,7 +4352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1154166793}
-  index: 0
+  index: 14
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1703838176}
@@ -4396,12 +4398,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1167135983}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc0312abb1af24341a2d21733f26b366, type: 3}
+  m_Script: {fileID: 11500000, guid: 2af93540d1a7b3942bef758d8359e2a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  operator1_handler: {fileID: 172535436}
-  operand1_handler: {fileID: 1485598851}
-  operand2_handler: {fileID: 1477268223}
 --- !u!4 &1243725069 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7005058048981962884, guid: 320fec97136ab3c4a99c2c92ed96fba3, type: 3}
@@ -4460,7 +4459,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2960, y: 1900}
+  m_ReferenceResolution: {x: 800, y: 1900}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -4598,7 +4597,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2
+  m_text: 5
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4688,7 +4687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1276964367}
-  index: 0
+  index: 24
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1822406668}
@@ -4752,7 +4751,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4842,7 +4841,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1291220491}
-  index: 0
+  index: 8
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 678656254}
@@ -5362,7 +5361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1424422513}
-  index: 0
+  index: 16
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1623733663}
@@ -6103,7 +6102,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 1
+  m_text: 53
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6193,7 +6192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1615761725}
-  index: 0
+  index: 3
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1809888507}
@@ -6879,7 +6878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1767637943}
-  index: 0
+  index: 19
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 108088968}
@@ -7072,7 +7071,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1804103390
 GameObject:
@@ -7223,7 +7222,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1804103392}
-  index: 0
+  index: 21
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 182768518}
@@ -7818,7 +7817,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 1845524741}
-  index: 0
+  index: 11
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1917943605}
@@ -8248,7 +8247,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 5
+  m_text: 39
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8492,7 +8491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   num1text: {fileID: 2145798029}
-  index: 0
+  index: 20
   operand1text: {fileID: 1485598851}
   operand2text: {fileID: 1477268223}
   button: {fileID: 1857282447}

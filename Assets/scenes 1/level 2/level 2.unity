@@ -1041,8 +1041,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1695205424}
-        m_TargetAssemblyTypeName: levelscript, Assembly-CSharp
+      - m_Target: {fileID: 1695205427}
+        m_TargetAssemblyTypeName: EasyMediumHard, Assembly-CSharp
         m_MethodName: easy
         m_Mode: 3
         m_Arguments:
@@ -1050,7 +1050,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 3
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &740601558
@@ -2118,6 +2118,7 @@ GameObject:
   - component: {fileID: 1695205424}
   - component: {fileID: 1695205425}
   - component: {fileID: 1695205426}
+  - component: {fileID: 1695205427}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2252,6 +2253,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b547cf23d16531740ba06b8cbe6052e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1695205427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695205419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: badbb46753d9f06418b99179dea28e14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1695581553
@@ -2640,8 +2653,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1695205424}
-        m_TargetAssemblyTypeName: levelscript, Assembly-CSharp
+      - m_Target: {fileID: 1695205427}
+        m_TargetAssemblyTypeName: EasyMediumHard, Assembly-CSharp
         m_MethodName: hard
         m_Mode: 3
         m_Arguments:
@@ -2922,8 +2935,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1695205424}
-        m_TargetAssemblyTypeName: levelscript, Assembly-CSharp
+      - m_Target: {fileID: 1695205427}
+        m_TargetAssemblyTypeName: EasyMediumHard, Assembly-CSharp
         m_MethodName: medium
         m_Mode: 3
         m_Arguments:

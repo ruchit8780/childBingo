@@ -28,7 +28,7 @@ public class clickControl : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         int currquesint = GMScript.index;
-        if (GMScript.test[index] == GMScript.operator1[currquesint] - GMScript.operator2[currquesint])
+        if (GMScript.test[index] == GMScript.operator1[currquesint] / GMScript.operator2[currquesint])
         {
             Debug.Log("correct ans");
             button.GetComponent<Image>().sprite = image;
